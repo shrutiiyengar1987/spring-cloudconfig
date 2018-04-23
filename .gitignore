@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 target/
 
 .classpath
 .project
+=======
+target/
+.classpath
+
+.project
+
+>>>>>>> Commit six-epect conflicts
 .settings
 .idea/
 */*.iml

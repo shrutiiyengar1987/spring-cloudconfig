@@ -3,5 +3,9 @@ class b{
 	{
 		System.out.println("hello B");
 		System.out.println("second statementB");
+		System.out.println("hello B888888");
+		System.out.println("hello B777777");
+		System.out.println("hello B777777");
+
 	}
 }
