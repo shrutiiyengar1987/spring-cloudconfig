@@ -1,8 +1,9 @@
-*/target/
-*/.classpath
-*/.project
-*/.settings/
-*/.idea/
+target/
+
+.classpath
+.project
+.settings
+.idea/
 */*.iml
 */mvnw
 */.mvn/
